@@ -1,2 +1,1 @@
-My first readme
-The only time I was to edit and commit from github
+I'm now a ALX student, this my first repository as a full-stack engineer
